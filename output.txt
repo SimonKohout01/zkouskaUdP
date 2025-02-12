@@ -1,0 +1,3 @@
+Original text: AHOJ SVETE, JAK SE DARI? SNAD SE MAS DOBRE. 22 JE MOJE OBLIBENE ČÍSLO
+Morse code: .- .... --- .--- / ... ...- . - . --..-- / .--- .- -.- / ... . / -.. .- .-. .. ..--.. / ... -. .- -.. / ... . / -- .- ... / -.. --- -... .-. . .-.-.- / ..--- ..--- / .--- . / -- --- .--- . / --- -... .-.. .. -... . -. . / ... .-.. ---
+Decoded text: AHOJ SVETE, JAK SE DARI? SNAD SE MAS DOBRE. 22 JE MOJE OBLIBENE SLO
